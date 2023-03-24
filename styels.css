@@ -1,0 +1,11 @@
+* {
+  box-sizing: border-box;
+}
+
+h1 {
+  background-color: dodgerblue;
+}
+
+p {
+  background-color: tomato;
+}
